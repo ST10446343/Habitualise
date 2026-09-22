@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258507821041",
+    "project_id": "habitualise-2cd75",
+    "storage_bucket": "habitualise-2cd75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258507821041:android:f41ee36cc2d6a76c99fe50",
+        "android_client_info": {
+          "package_name": "com.example.habitualise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25ytxn-GDeUB1ULXZ-lHui2Bc6DxtO50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
